@@ -9,7 +9,9 @@ Virtuālās pasaules datorspēlēs ir veidotas no dažādiem grafiskiem objektie
 Sastādi algoritmu programmai, kas darbojas sekojoši:
 1. Prasa ievadīt pozitīvu skaitli, izvadot tekstu "Augstums: "
 2. Ja ievadītais skaitlis nav intervālā no 1 līdz 8 (ieskaitot), skaitlis jāievada atkārtoti tik ilgi, kamēr tas būs derīgs.
-3. Kolīdz ievadīts derīgs skaitlis, programma izdrukā ekrānā atbilstošu piramīdu, kas veidota no zvaigznīšu simboliem!
+3. Kolīdz ievadīts derīgs skaitlis, programma izdrukā ekrānā atbilstošu piramīdu, kas veidota no zvaigznīšu simboliem!<br>
+
+**Ņem vērā, ka atstatums starp abām piramīdas daļām ir 2 atstarpes!**
 
 *Piemēri:*
 ~~~txt
