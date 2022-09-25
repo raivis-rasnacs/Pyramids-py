@@ -1,0 +1,2 @@
+# TODO: Sastādi doto algoritmu!
+
